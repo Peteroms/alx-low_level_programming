@@ -6,6 +6,7 @@
 * leap years into account
 * Return: 0
 */
+void print_remaining_days(int day, int month, int year);
 
 int main(void)
 {
